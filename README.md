@@ -92,26 +92,7 @@ User → Frontend UI → Flask Backend → News API → AI Summarizer → Transl
 
 ## 📂 Project Structure
 
-ai-news-summarizer/
-├── backend/
-│   ├── app.py
-│   ├── config.py
-│   ├── summarizer.py
-│   ├── translator.py
-│   ├── tts.py
-│   ├── utils.py
-│   └── requirements.txt
-├── frontend/
-│   ├── static/
-│   │   ├── css/style.css
-│   │   └── js/script.js
-│   └── templates/index.html
-├── tests/
-│   ├── test_api.py
-│   ├── test_summarizer.py
-│   └── test_tts.py
-├── README.md
-└── LICENSE
+<img width="778" height="528" alt="image" src="https://github.com/user-attachments/assets/974c2756-cc09-439b-b48a-9ff398c7ec6e" />
 
 ---
 
@@ -189,13 +170,3 @@ pytest tests/
 - User authentication
 - Advanced AI models
 - Emotion-based voice narration
-
----
-
-## 📜 License
-
-MIT License
-
----
-
-⭐ Star the repository if you like this project!
